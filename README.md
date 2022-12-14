@@ -1,5 +1,5 @@
 ## Hi there 
-
+- 🔨 Working at Matrix Do Brasil
 - 👨‍💻 Full-stack developer Vuejs/Nodejs
 - 🌱 I’m currently learning TDD, Clean Architecture and Typescript
 
