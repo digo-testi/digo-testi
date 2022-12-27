@@ -16,7 +16,6 @@
   <img align="center" alt="Digo-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Digo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Digo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Digo-pic" height="150" style="border-radius:50px;" src="https://instagram.fplu33-1.fna.fbcdn.net/v/t51.2885-19/277418527_299288178953626_5163987313662244174_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fplu33-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=wqErzz3OAOAAX-B7hZ3&tn=XCpZ5dePKSEYPY9d&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCm2gDVOgApoSkq_b69m-Sn9TGu3O5wgilpnd6E13RiQQ&oe=639ECEB9&_nc_sid=8fd12b">
 </div>
   
   ##
