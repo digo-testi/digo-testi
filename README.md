@@ -1,7 +1,7 @@
 ## Hi there 
-- 🔨 Working at Matrix Do Brasil
-- 👨‍💻 Full-stack developer Vuejs/Nodejs
-- 🌱 I’m currently learning TDD, Clean Architecture and React Typescript
+- 🔨 Working at Loviz
+- 👨‍💻 Full-stack JS developoer
+- 🌱 I’m currently deep diving my in Node and Js concepts. 
 
 <div align="center">
   <a href="https://github.com/digo-testi">
